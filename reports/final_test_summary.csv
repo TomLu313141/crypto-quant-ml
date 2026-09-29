@@ -1,0 +1,2 @@
+test_rows,active_periods,entries,exits,signal_frequency,avg_gross_active_bps,effective_net_edge_bps,gross_hit_rate,total_cost_bps,sharpe_ratio,max_drawdown,net_total_return,pearson_ic,spearman_ic,test_start,test_end,test_end_is_partial_month,positive_month_ratio
+24786,282,232.0,232.0,0.011377390462357783,0.3185545519499101,-0.5041404835110826,0.5638297872340425,232.00000000000003,-0.21838793005782617,-0.04615052689254162,-0.017066097024497573,0.008727597733223734,0.04911924961468272,2026-01-01 00:00:00+00:00,2026-09-16 04:15:00+00:00,True,0.4444444444444444
